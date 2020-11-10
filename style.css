@@ -1,0 +1,34 @@
+h1, body {
+	background: url("header.jpg") no-repeat center center fixed;
+	background-size: cover;
+	font-family: fantasy;
+	height: 100%;
+	color: white;
+}
+
+html {
+	height: 100%;
+}
+
+hr {
+	border-top: 3px solid #FFAB3A;
+	width: 50px;
+	margin-bottom: 1.5em;
+}
+
+.separator {
+	height: 125px;
+}
+
+.btn-primary {
+	background-color: #FFAB3A;
+	border-radius:2rem;
+	border-color: #FF980F;
+	font-family: fantasy;
+}
+
+.btn-primary:hover{
+	background-color: #FF980F;
+	border-color: #FFAB3A;
+}
+
